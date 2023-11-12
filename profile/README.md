@@ -11,6 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-**Repos**
+**Internal Private Repos**
 - parcelz_backend: server of parcelz, fastapi
 - parcelz_web: frontend of parcelz, vue.js
