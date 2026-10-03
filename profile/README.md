@@ -13,5 +13,6 @@
 
 **Internal Private Repos**
 - parcelz_backend: server of parcelz, fastapi
-- parcelz_web: frontend of parcelz, vue.js
+- [parcelz_web](https://github.com/parcelzz/parcelz_web/issues): frontend of parcelz, vue.js
 - parcelz_frontend: old repo for frontend, for reference, please stop working on it!!
+- [sharable list & snippets](https://github.com/parcelzz/parcelz_web/discussions/categories/general)
